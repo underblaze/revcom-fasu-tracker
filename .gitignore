@@ -22,3 +22,5 @@ thebuggenie/test.php
 # vendor/
 /composer.phar
 .directory
+
+/composer.json
