@@ -19,6 +19,6 @@ web.config
 tmp
 thebuggenie/test.php
 *~
-vendor/
+# vendor/
 /composer.phar
 .directory
