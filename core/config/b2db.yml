@@ -1,0 +1,6 @@
+b2db:
+    username: "username"
+    password: "password"
+    dsn: "MariaDB:host=localhost;dbname=database"
+    tableprefix: 'tbg_'
+    cacheclass: '\thebuggenie\core\framework\Cache'

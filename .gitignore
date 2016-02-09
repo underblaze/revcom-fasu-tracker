@@ -1,4 +1,4 @@
-core/config/b2db.yml
+# core/config/b2db.yml
 cache
 files/
 .settings/
