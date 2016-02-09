@@ -1,0 +1,24 @@
+core/config/b2db.yml
+cache
+files/
+.settings/
+thebuggenie/.htaccess
+installed
+nbproject
+thebuggenie.log
+web.config
+.buildpath
+.DS_Store
+# .gitignore
+.idea
+*.kdev4
+.project
+.remote_password_hash
+.remote_server
+.remote_username
+tmp
+thebuggenie/test.php
+*~
+# vendor/
+/composer.phar
+.directory
